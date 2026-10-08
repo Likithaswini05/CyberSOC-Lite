@@ -1,0 +1,3 @@
+Threat,IP Address,Severity,Risk Score,Recommendation
+Brute Force Attack,192.168.1.10,HIGH,90,"Block the source IP, review the affected account, and enable multi-factor authentication."
+Port Scanning,192.168.1.15,HIGH,85,Investigate the source IP and restrict unnecessary exposed network ports.
